@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Acceleo
+Bundle-SymbolicName: de.funthomas424242.buildboost.genext.acceleo
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: FunThomas424242
+Require-Bundle: de.devboost.buildboost,
+ de.devboost.buildboost.genext.updatesite
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: de.funthomas424242.buildboost.genext.acceleo.stages,
+ de.funthomas424242.buildboost.genext.acceleo.steps
