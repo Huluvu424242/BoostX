@@ -1,4 +1,4 @@
-de.funthomas424242.buildboost.genext.acceleo
+BoostX
 ============================================
 
 Acceleo Extension of BuildBoost
